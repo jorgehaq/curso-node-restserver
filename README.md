@@ -13,6 +13,11 @@ express= para configurar el webserver
 nmp i express dotenv
 
 
+# Crear tags
+
+git tag -a V1.0.1 -m "Fin seccion 8"
+
+
 
 # WebServer + RestServer
 
